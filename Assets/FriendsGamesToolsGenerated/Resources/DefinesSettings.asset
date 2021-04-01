@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: DefinesSettings
   m_EditorClassIdentifier: 
   defines:
-  - 
+  - UTILS
+  - PLUGINS
