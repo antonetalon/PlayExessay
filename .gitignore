@@ -12,7 +12,6 @@ Temp/
 Library/
 Logs/
 #######          Builds         #######
-[Bb]uild/
 [Bb]uilds/
 *.apk
 *.obb

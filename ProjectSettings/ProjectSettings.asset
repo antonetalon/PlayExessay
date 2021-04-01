@@ -578,10 +578,10 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: PLUGINS;UTILS
-    4: PLUGINS;UTILS
-    7: PLUGINS;UTILS
-    13: PLUGINS;UTILS
+    1: UTILS;PLUGINS;BUILD_MODES
+    4: UTILS;PLUGINS;BUILD_MODES
+    7: UTILS;PLUGINS;BUILD_MODES
+    13: UTILS;PLUGINS;BUILD_MODES
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
