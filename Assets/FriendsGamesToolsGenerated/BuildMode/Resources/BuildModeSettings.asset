@@ -42,8 +42,9 @@ MonoBehaviour:
 
     build mode should be release
 
-    FriendsGamesIncubator
-    requires unity version 2019.3.13f1
-
 '
-  configs: []
+  configs:
+  - howToApply: 2
+    settingName: .gitignore
+  - howToApply: 2
+    settingName: .gitattributes
