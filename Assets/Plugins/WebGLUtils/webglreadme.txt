@@ -1,0 +1,4 @@
+ - builds cant be launched without webserver, just launching index.html
+ - "build&run" launches build on local webserver automatically, test with it
+ - safari needs only WebGL1.0 for now
+ - UnityLoader.js should be altered to avoid message "webgl not supported" on mobiles. Use this postprocess script
